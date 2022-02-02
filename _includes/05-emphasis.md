@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*dreams sleep things*
+_mother is the truen of every home_
+
+**thought for today**
+__think big__
+
+_be **confidant** my life_
